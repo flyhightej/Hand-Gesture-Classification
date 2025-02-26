@@ -28,13 +28,13 @@ The dataset used in this project is the "American Sign Language Digits Dataset" 
 
 To run the notebook, you will need to install the following Python packages:
 
-pip install numpy
-pip install opencv-python
-pip install matplotlib
-pip install scikit-learn
-pip install tensorflow
-pip install keras
-pip install kaggle
+pip install numpy <br>
+pip install opencv-python <br>
+pip install matplotlib <br>
+pip install scikit-learn <br>
+pip install tensorflow <br>
+pip install keras <br>
+pip install kaggle <br>
 
 
 ## Usage
