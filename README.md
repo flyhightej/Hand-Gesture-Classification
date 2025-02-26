@@ -1,4 +1,4 @@
-# American Sign Language Digits Recognition
+# Hand Gestures Classification Using Deep Learning Models
 
 ## Overview
 
@@ -28,13 +28,13 @@ The dataset used in this project is the "American Sign Language Digits Dataset" 
 
 To run the notebook, you will need to install the following Python packages:
 
-pip install numpy <br>
-pip install opencv-python <br>
-pip install matplotlib <br>
-pip install scikit-learn <br>
-pip install tensorflow <br>
-pip install keras <br>
-pip install kaggle <br>
+&emsp; pip install numpy <br>
+&emsp; pip install opencv-python <br>
+&emsp; pip install matplotlib <br>
+&emsp; pip install scikit-learn <br>
+&emsp; pip install tensorflow <br>
+&emsp; pip install keras <br>
+&emsp; pip install kaggle <br>
 
 
 ## Usage
